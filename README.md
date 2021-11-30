@@ -1,5 +1,5 @@
 
-🧔  hello my name is Mrcos Roberto
+🧔  hello my name is Mr Marcos Roberto
 
 💻 I am currently studying Html5 and CSS3
 
@@ -19,8 +19,7 @@
   
   <div> 
   
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
+   	
  
   <a href = "mrdsjjmmo@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-roberto-047b22222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
